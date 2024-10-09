@@ -1,1 +1,1 @@
-The first course from the Java path of SoftUni
+The first course from the Java path of SoftUni.
